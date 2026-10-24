@@ -21,7 +21,7 @@ footer{
     border: 1px solid black;
 }
 
-.main-nav{
+.main-nav, .showcase{
     background-color: #CCCCCC;
     width: 100%;
     height : 60px;
